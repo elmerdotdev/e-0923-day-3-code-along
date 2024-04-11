@@ -1,0 +1,20 @@
+
+const page = () => {
+  return (
+    <div>
+      <h1>About</h1>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci enim ut accusamus recusandae laborum, velit magnam, optio odio possimus commodi nemo. Hic, qui, odio porro alias beatae reiciendis aliquam perferendis ad, cupiditate corporis laborum expedita voluptas ab quas quos. Sunt, veniam? Corrupti dolor quasi, eius asperiores ipsa explicabo enim earum.</p>
+      <p>Eos consequatur assumenda debitis tempora, fuga sed recusandae facilis eius quis voluptatibus vel esse impedit ea nihil optio magnam? At, mollitia vel pariatur voluptas id magnam beatae quos perferendis doloremque eligendi quidem inventore animi ea reprehenderit earum nulla dolores! Tempore ea unde tempora? Aliquid reiciendis alias consectetur ullam provident fugiat?</p>
+      <p>Ex quos soluta consequatur animi itaque sunt neque illo iure odio! Ad quasi recusandae, eos in nam repellendus soluta architecto maxime exercitationem consequuntur quibusdam laborum, quidem, facere hic incidunt corporis voluptates accusantium adipisci reiciendis nemo excepturi facilis. Laboriosam eius soluta aperiam voluptates nostrum nisi, dolorum nulla sint aspernatur eveniet assumenda!</p>
+      <p>Iure pariatur vel provident doloribus, cum aperiam laborum est illo nobis, tempore, eius libero corrupti laudantium corporis. Vero odio perspiciatis, at enim sit architecto excepturi qui exercitationem animi minus debitis modi necessitatibus minima deserunt ipsam tempore nostrum culpa cum, nihil consequatur accusamus neque recusandae quidem? Minima, beatae non! Aperiam, asperiores.</p>
+      <p>Explicabo iusto, minima blanditiis, perspiciatis neque eaque earum amet recusandae quibusdam sint dolor tempora autem modi laboriosam enim incidunt maxime alias vitae suscipit fugit voluptatem ullam libero et excepturi. Voluptatem, nulla. Quam obcaecati iste rem voluptatum, sequi debitis at atque? Ad, mollitia dignissimos iusto quis velit quaerat dolores cumque harum?</p>
+      <p>Saepe omnis odit dolores harum officia, nesciunt rerum maiores sint molestiae iste qui ipsa placeat fugit veniam laboriosam laborum, voluptate nisi blanditiis eligendi aliquid ullam ab. Qui dolores quos quisquam architecto, dicta amet officiis voluptatem delectus cumque ratione error ipsa minus modi sapiente porro explicabo sint ea aliquam distinctio tempore!</p>
+      <p>Sapiente unde vero perferendis possimus iusto porro voluptates, odio expedita provident quisquam dolores nisi officiis reprehenderit odit nostrum magni impedit nemo cum corrupti! Commodi fugit dignissimos tenetur aliquam nam quia sit, corporis ullam, quod, deserunt itaque blanditiis eum pariatur eaque omnis facilis. Architecto similique dicta explicabo ipsa reprehenderit eaque aperiam!</p>
+      <p>Ipsam esse culpa a ea maxime quo non corrupti quam veritatis nesciunt accusantium repudiandae minima impedit dolores asperiores fuga recusandae aspernatur, soluta necessitatibus? Optio dicta culpa ipsam maiores ratione repellendus fugiat, et corrupti praesentium sed iusto cupiditate ipsum nam. Sed possimus corrupti porro suscipit incidunt eius animi deserunt ratione harum!</p>
+      <p>Consequuntur, exercitationem quo aliquid voluptatum explicabo aut? Ipsa at ducimus voluptatum unde quis. Numquam reiciendis aperiam quos facilis praesentium enim laboriosam inventore totam. Itaque ipsam, maiores dolorem laborum fugit iusto blanditiis facilis odit nobis nihil harum! Exercitationem, rem molestiae amet accusantium reprehenderit quaerat ab, sapiente in error quibusdam iure tenetur?</p>
+      <p>Soluta tempora quam voluptate explicabo id aspernatur, autem hic? Dolore, esse quisquam? Reiciendis nisi temporibus et maxime, eaque maiores dolorum debitis. Fugit laborum quaerat maiores at. Corporis necessitatibus nihil cumque voluptate soluta aliquam veritatis molestiae modi! Nesciunt pariatur minima ullam maiores, assumenda laudantium doloremque molestiae beatae laboriosam deleniti in doloribus!</p>
+    </div>
+  )
+}
+
+export default page
